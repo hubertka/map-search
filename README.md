@@ -1,7 +1,7 @@
 # Mapkit and Maps Search (MapKitTutorial)
 A maps app with location search using a UITableView, and placemark annotations with a button for driving directions
 
-Started by using the tutorial "iOS Tutorial: How to search for location and display results using Apple’s MapKit" by Robert Chen.
+Created by using the tutorial "iOS Tutorial: How to search for location and display results using Apple’s MapKit" by Robert Chen.
 
 Linked: https://www.thorntech.com/2016/01/how-to-search-for-location-using-apples-mapkit/
 
